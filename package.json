@@ -1,0 +1,31 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronalt4cs/exercicios-backend-typescript-tipos-dados.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ronalt4cs/exercicios-backend-typescript-tipos-dados/issues"
+  },
+  "homepage": "https://github.com/Ronalt4cs/exercicios-backend-typescript-tipos-dados#readme",
+  "devDependencies": {
+    "tsx": "^3.12.7",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "buffer-from": "^1.1.2",
+    "esbuild": "^0.17.19",
+    "get-tsconfig": "^4.5.0",
+    "source-map": "^0.6.1",
+    "source-map-support": "^0.5.21"
+  }
+}
